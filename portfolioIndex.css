@@ -864,7 +864,7 @@ footer{
 	/*margin-right: 40px;*/
 	}
 	.descImg-1, .descImg-2, .descImg-3, .descImg-4, .descImg-5, .descImg-6{
-	width: 100%;
+	width: 10%;
 	display: block;
 	padding-left: 5%;
 	margin-bottom: 10px;
@@ -872,7 +872,6 @@ footer{
 	padding-right: 15px;
 	}
 	.projImg-bg-1, .projImg-bg-2, .projImg-bg-3, .projImg-bg-4, .projImg-bg-5, .projImg-bg-6{
-	width: 100%;
 	margin-right: 20px;
 	margin-bottom: 20px;
 	padding-bottom: 10px;
