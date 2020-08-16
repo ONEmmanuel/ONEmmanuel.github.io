@@ -879,6 +879,7 @@ footer{
 	}
 	.projImg-bg-1, .projImg-bg-2, .projImg-bg-3, .projImg-bg-4, .projImg-bg-5, .projImg-bg-6{
 	width: 100%;
+	box-sizing: border-box;
 	/*margin-right: 20px;*/
 	padding-bottom: 10px;
 	/*padding-right: 5%;*/
