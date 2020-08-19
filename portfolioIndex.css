@@ -255,7 +255,7 @@ main{
 	color: white;
 }
 .sub-desc-div a:hover{
-	color: brown;
+	color: #e8491d;
 }
 .contact-heading a{
 	text-decoration: none;
@@ -263,13 +263,14 @@ main{
 }
 .contact-heading a:hover{
 	color: brown;
+	font-weight: bold;
 }
 .social-contact a{
 	text-decoration: none;
 	color: white;
 }
 .social-contact a:hover{
-	color: brown;
+	color: #e8491d;
 }
 .sub-menu-1 ul{
 	padding-top: 30px;
