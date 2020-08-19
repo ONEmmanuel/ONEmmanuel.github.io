@@ -250,8 +250,13 @@ main{
 	background-color: #35424a;
 
 }
+.sub-desc-div a{
+	text-decoration: none;
+	color: white;
+}
 .contact-heading a{
 	text-decoration: none;
+	color: #e8491d;
 }
 .social-contact a{
 	text-decoration: none;
