@@ -250,7 +250,12 @@ main{
 	background-color: #35424a;
 
 }
-
+.contact-heading a{
+	text-decoration: none;
+}
+.social-contact a{
+	text-decoration: none;
+}
 .sub-menu-1 ul{
 	padding-top: 30px;
 	padding-bottom: 30px;
