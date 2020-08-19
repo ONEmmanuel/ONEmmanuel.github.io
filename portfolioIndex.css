@@ -483,7 +483,7 @@ body{
 	margin-bottom: 10px;
 }
 .descImg-section-main{
-	background-color: lightgray;
+	background-color: #35424a;
 	/*background-color: #862d2d;
 	/*border: 2px solid #e8491d;*/
 	padding-top: 17px;
@@ -494,7 +494,7 @@ body{
 
 }
 .descImg-section-main-2{
-	background-color: lightgray;
+	background-color: #35424a;
 	/*background-color: #862d2d;
 	/*border: 2px solid #e8491d;*/
 	padding-top: 17px;
@@ -505,7 +505,7 @@ body{
 	box-sizing: border-box;
 }
 .projImg-bg-1{
-	border: 2px solid brown;
+	border: 2px solid none;
 	margin-right: 120px;
 	padding: 0px 20px 20px 20px;
 	margin-bottom: 20px;
@@ -515,7 +515,7 @@ body{
 }
 
 .projImg-bg-2{
-	border: 2px solid brown;
+	border: 2px solid none;
 	margin-right: 120px;
 	padding: 0px 20px 10px 20px;
 	margin-bottom: 20px;
@@ -523,7 +523,7 @@ body{
 	border-radius: 15px;
 }
 .projImg-bg-3{
-	border: 2px solid brown;
+	border: 2px solid none;
 	margin-right: 20px;
 	padding: 0px 20px 10px 20px;
 	margin-bottom: 20px;
@@ -531,7 +531,7 @@ body{
 	border-radius: 15px;
 }
 .projImg-bg-4{
-	border: 2px solid brown;
+	border: 2px solid none;
 	margin-right: 120px;
 	padding: 0px 20px 10px 20px;
 	background-color: lightslategray;
@@ -539,7 +539,7 @@ body{
 	margin-bottom: 20px;
 }
 .projImg-bg-5{
-	border: 2px solid brown;
+	border: 2px solid none;
 	margin-right: 120px;
 	padding: 0px 20px 10px 20px;
 	background-color: lightslategray;
@@ -547,7 +547,7 @@ body{
 	margin-bottom: 20px;
 }
 .projImg-bg-6{
-	border: 2px solid brown;
+	border: 2px solid none;
 	margin-right: 20px;
 	padding: 0px 20px 10px 20px;
 	background-color: lightslategray;
