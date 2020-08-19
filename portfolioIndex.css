@@ -254,13 +254,22 @@ main{
 	text-decoration: none;
 	color: white;
 }
+.sub-desc-div a:hover{
+	color: brown;
+}
 .contact-heading a{
 	text-decoration: none;
 	color: #e8491d;
 }
+.contact-heading a:hover{
+	color: brown;
+}
 .social-contact a{
 	text-decoration: none;
 	color: white;
+}
+.social-contact a:hover{
+	color: brown;
 }
 .sub-menu-1 ul{
 	padding-top: 30px;
