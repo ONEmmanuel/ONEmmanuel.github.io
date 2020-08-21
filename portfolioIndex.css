@@ -5,7 +5,8 @@ body{
 	/*overflow: hidden;*/
 	margin: 0px;
 	padding: 0px;
-	background-color: lightgray;
+	background-color: #8B4513;
+        color: #fff;
 }
 .container{
 	width: 90%;
@@ -341,11 +342,11 @@ article{
 	background-color: #35424a;
 	/*background-color: #;
 }*/
-body{
+/*body{
 	background-color: #8b4513;
 	color: #fff;
-	/*background-image: url("images/programming1.png");*/
-}
+	background-image: url("images/programming1.png");
+}*/
 /*main{
 	background-image: url("images/programming2.jpeg");
 
