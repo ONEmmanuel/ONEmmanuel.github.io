@@ -466,9 +466,17 @@ article{
 .social-contact a:hover{
 	color: #e8491d;
 }
-.union-link{
+
+
+.union-link a{
 	color: black;
 }
+.union-link a:hover{
+	color: #e8491d;
+        text-decoration: none;
+}
+
+
 .skill-h3{
 	padding-top: 10px;
 }
