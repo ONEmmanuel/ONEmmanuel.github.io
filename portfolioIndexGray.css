@@ -817,8 +817,8 @@ footer{
 		margin: auto;
 		width: 60%;
 		text-align: center;
-		padding-left: 20%;
-		padding-right: 20%;
+		margin-left: 20%;
+		margin-right: 20%;
 		background-color: lightslategray;
 		margin-top: 10px;
 		margin-bottom: 40px;
