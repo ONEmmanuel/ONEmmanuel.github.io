@@ -774,7 +774,7 @@ footer{
 		margin-right: 25%;
 		margin-left: 25%;
 		background-color: #003152;
-		border: 1px solid dodgerblue;
+		/*border: 1px solid dodgerblue;*/
 	}
 
 	.footer-nav a{
